@@ -34,7 +34,10 @@ IDE: VSCode, https://en.wikipedia.org/wiki/ZeroBrane_Studio
 2017 [Учебные материалы по языку программирования Lua](https://vk.com/topic-141509355_35092701)   
 
 https://smart-lab.ru/tag/LUA/               
-https://smart-lab.ru/tag/Quik%20Lua/                
+https://smart-lab.ru/tag/Quik%20Lua/        
+
+http://lua-users.org/wiki                    
+http://lua-users.org/wiki/GraphicalUserInterfaceToolkits                     
 
 ### Install                     
 https://www.youtube.com/results?search_query=Installing+Lua+on+Windows+and++VS+Code             
