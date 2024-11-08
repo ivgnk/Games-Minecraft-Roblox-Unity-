@@ -8,6 +8,6 @@ https://github.com/topics/unity 26,733 public repositories
 2024 [habr: 30 лучших игр в Roblox в 2024 году](https://habr.com/ru/companies/pixel_study/articles/856386/)         
 
 ## Education                        
-**Пиксель / Школа программирования для детей 5-17 лет https://habr.com/ru/companies/pixel_study/articles**                             
+**[habr: Пиксель / Школа программирования для детей 5-17 лет](https://habr.com/ru/companies/pixel_study/articles)**                             
 2024 [habr: Ошибки в обучении детей программированию: ТОП-5](https://habr.com/ru/companies/pixel_study/articles/856556)                
 2024 [habr: Детское программирование: 10 проектов, которые могут создать дети](https://habr.com/ru/companies/pixel_study/articles/856076/)                    
