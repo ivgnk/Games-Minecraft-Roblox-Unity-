@@ -18,6 +18,10 @@ https://en.wikibooks.org/wiki/Lua_Programming
 **https://github.com/topics/lua**                
 https://github.com/lua/lua                
 https://github.com/search?q=Lua&type=repositories
+**https://github.com/forhappy/awesome-lua** - language features
+https://github.com/LewisJEllis/awesome-lua
+https://github.com/uhub/awesome-lua
+
 [github.com: Маленькая книга о Lua](https://github.com/Gitart/the-little-lua-book)            
 
 **[Lua - Скриптовый язык программирования](https://habr.com/ru/hubs/lua/articles/)**                
